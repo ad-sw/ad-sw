@@ -16,7 +16,7 @@ const adeline = {
           misc: ["postman", "aws s3"]
        },
       databases: {
-          SQL: ["sql", "postgreSQL"],
+          SQL: ["postgreSQL"],
           Flask: ["sqlalchemy"],
           ORM: ["sequelize"],
           misc: ["postbird", "postico"]
