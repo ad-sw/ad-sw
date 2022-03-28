@@ -1,4 +1,4 @@
-<i><sub>SWE who is product quality-focused and customer-focused. More information about me can be found [here](https://ad-sw.github.io/) or below:</sub></i> 
+<i><sub>SWE who is product quality-focused and customer-focused. More information about me can be found below:</sub></i> 
 
 `````javascript
 const adeline = {
